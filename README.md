@@ -16,4 +16,4 @@ Berikut adalah tampilan modul input nilai :
 
 Berikut adalah tampilan modul view nilai :
 
-[daftar!]
+![daftar](https://github.com/putrinabila2301/Tugas-7/blob/master/view%20nilai.PNG)
