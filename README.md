@@ -8,7 +8,7 @@ Berikut adalah Strukturnya
 
 Berikut adalah tampilan modul daftar nilai :
 
-[daftar!](
+![daftar](https://github.com/putrinabila2301/Tugas-7/blob/master/daftar%20nilai.PNG)
 
 Berikut adalah tampilan modul input nilai :
 
