@@ -12,7 +12,7 @@ Berikut adalah tampilan modul daftar nilai :
 
 Berikut adalah tampilan modul input nilai :
 
-[daftar!](
+![daftar](https://github.com/putrinabila2301/Tugas-7/blob/master/input%20nilai.PNG)
 
 Berikut adalah tampilan modul view nilai :
 
