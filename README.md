@@ -4,7 +4,7 @@ Buat Package dan Modul berdasarkan tugas praktikum sebelumnya.
 
 Berikut adalah Strukturnya
 
-[daftar!](
+[daftar!](https://github.com/putrinabila2301/Tugas-7/blob/master/tgs%20python.jpg)
 
 Berikut adalah tampilan modul daftar nilai :
 
